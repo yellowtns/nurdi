@@ -10,7 +10,7 @@ const team = {
     				{opponent: "Aguero", teamPoints: 40, opponentPoints: 29}
   ],
 
-get player : () {
+get player () {
     return this._players;
 		}
   
