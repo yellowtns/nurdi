@@ -1,2 +1,5 @@
-# learn
-Learning note and lib
+# understanding
+Javascript
+
+https://eloquentjavascript.net/
+
